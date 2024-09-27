@@ -1,0 +1,14 @@
+streamlit 
+pillow 
+numpy 
+Python-IO 
+openvino 
+matplotlib 
+streamlit-camera-input-live 
+pyyaml 
+ultralytics 
+moviepy 
+opencv-python-headless 
+
+
+ 
