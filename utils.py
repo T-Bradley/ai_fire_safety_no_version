@@ -1,6 +1,6 @@
 import openvino as ov
 import yaml
-
+import error
 import cv2 
 import numpy as np
 from ultralytics.utils.plotting import colors
